@@ -1,0 +1,9 @@
+Name: Deploy::other
+Description: {{ DESCRIPTION }}
+Author: {{ your name <your.name@email.com> }}
+License: {{ THE LICENSE }}
+
+# Only if you have dependencies to other Rex Modules.
+Require:
+   - Other::Rex::Module
+   - 2nd::Rex::Module
