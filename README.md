@@ -1,0 +1,2 @@
+# RexDeploy
+RexDeploy是基于Rex开发的一个自动化发布平台
